@@ -3,14 +3,14 @@ body{
 }
 h1{ color: black;
 text-align: center;
-font-size: 60px;
+font-size: 40px;
 }
 p{
     text-align: center;
-    font-size: 50px;
+    font-size: 30px;
 }
 #imagem1{
-    width: 70%;
+    width: 60%;
     height: 15%;]
     border: 2px;
 }
