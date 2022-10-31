@@ -21,4 +21,13 @@ p{
 .beneficios{
     background-color: crimson;
     text text-align: left;
+font-size:20%;
+}
+
+ul{
+    display:inline-block;
+    vertical-align: top;
+    margin: 3%;
+    list-style: circle;
+
 }
