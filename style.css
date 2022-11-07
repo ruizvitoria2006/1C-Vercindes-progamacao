@@ -9,6 +9,12 @@ p{
     text-align: center;
     font-size: 30px;
 }
+
+.principal{
+    background-color: blueviolet;
+    padding: 30px;
+}
+
 #imagem1{
     width: 60%;
     height: 15%;]
@@ -29,5 +35,7 @@ ul{
     vertical-align: top;
     margin: 3%;
     list-style: circle;
+    width: 20%;
+    margin-right: 15%;
 
 }
